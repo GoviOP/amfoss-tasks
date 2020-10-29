@@ -1,4 +1,4 @@
- # *amfoss - tasks
+ # amfoss - tasks
 
 # Why must we choose you?
 
